@@ -111,6 +111,8 @@ This project shows that with the right tools (like Biomni) and hands-on practice
 
 Special mention to **Biomni** for helping guide the learning process and making bioinformatics more accessible.
 
+PROJECT TO BE CONTINUED...
+
 ---
 
 ## 📬 Connect
